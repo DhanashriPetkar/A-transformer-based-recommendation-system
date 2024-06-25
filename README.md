@@ -43,7 +43,9 @@ Use the trained model to predict ratings for new user-movie pairs.
 Files in the Repository
 
 Notebook: Contains the complete implementation and explanation of the recommendation system.
+
 Data: Scripts for data downloading and preprocessing.
+
 Model: BST model implementation and training scripts.
 
 How to Use:
