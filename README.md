@@ -12,9 +12,8 @@ The system utilizes the Behavior Sequence Transformer model to predict movie rat
 Introduction:
 The BST model is based on the research paper by Qiwei Chen et al. It uses sequential user behavior and additional features to make predictions.
 
-Dataset
+Dataset name: MovieLens
 
-Name: MovieLens
 Source: MovieLens Dataset
 
 Model and Approach:
